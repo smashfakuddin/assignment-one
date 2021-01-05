@@ -59,6 +59,7 @@ p{
 }
 .second-section{
     margin-top: 10px;
+    padding-bottom: 50px;
 }
 .third-section{
     margin-left: 100px;
@@ -67,12 +68,18 @@ p{
     height: 100%;
     width: 100%;
     float: left;
+    background-color: #F4F6FC;
+    border-radius: 5px;
 }
 .one-third-width{
-    padding-left: 25px;
+    padding-left: 75px;
     width: 25%;
     height: 100%;
     float: left;
+    box-shadow: 10px 10px 10px gray;
+    border-radius: 15px;
+   
+    background-color: white;
 }
 .one-third-width img{
     height: 100%;
@@ -84,5 +91,9 @@ p{
     background-repeat: no-repeat;
 }
 h2{
+   padding-bottom: 80px;
     text-align: center;
+}
+h3{
+    font-weight: bold;
 }
