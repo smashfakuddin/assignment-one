@@ -31,8 +31,9 @@ a{
     color: tomato;
 }
 h1{
-    font-size: 40px;
-    font-weight: bold;
+    font-size: 60px;
+    ;
+    font-family: 'Bebas Neue', cursive;
 }
 img{
     height: 100%;
@@ -73,27 +74,37 @@ p{
 }
 .one-third-width{
     padding-left: 75px;
-    width: 25%;
+    width: 20%;
     height: 100%;
     float: left;
-    box-shadow: 10px 10px 10px gray;
-    border-radius: 15px;
-   
-    background-color: white;
+    margin-left: 60px;
+    
+    
 }
 .one-third-width img{
     height: 100%;
     width: 100%;
+    margin-top: 30px;
+    margin-left: -50px;
+    
 }
 .main-third-section{
-    border: 5px;
+    border: 0px;
     background-color: gray;
     background-repeat: no-repeat;
 }
 h2{
    padding-bottom: 80px;
     text-align: center;
+    padding-right: 120px;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 50px;
 }
 h3{
     font-weight: bold;
+}
+.shadow{
+    box-shadow: 10px 10px 40px gray;
+    height:80%;
+    border-radius: 5px;
 }
