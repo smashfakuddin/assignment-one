@@ -59,7 +59,7 @@ p{
     color: white;
 }
 .second-section{
-    margin-top: 10px;
+    margin-top: 30px;
     padding-bottom: 50px;
 }
 .third-section{
@@ -108,4 +108,25 @@ h3{
     box-shadow: 10px 10px 40px gray;
     height:80%;
     border-radius: 5px;
+}
+.forth-section{
+    background-image: url(/shapes/Group_33094_1.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center ;
+    padding-top: 50px;
+    margin: auto; 
+    margin-top: 1700px;
+}
+.forth-section a{
+    float: right;
+    margin-top: -162px;
+    margin-right: 450px;
+
+}
+.forth-section h1{
+    margin-left: 450px;
+    padding-bottom: 50px;
+    
+    
 }
